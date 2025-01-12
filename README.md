@@ -1,9 +1,25 @@
-Hello, I would please ask for a small contribution, this would immensly help me become a more well-rounded programmer.
+### Keras Movie Classification
 
-The fashion_mnist py file is just a small demo I used when I was watching tutorials, now you can help me!
+This is an project about reading Movie Reviews, we use machine learning through the help of keras, a subset of tenslorflow. This gives an output from 1 to 0, with 1 being a positive output , and 0 being negative output. 
 
-It would be really helpful is someone told me how to submit files in the gigabytes territory or just tell me how to optimise the saved ai
+## Installation
 
-Contributors:
+Open it like you normally would, extract the git file or edit it with your codespace. This requires keras, numpy, and a little bit of ssl. This requries a version of python that is quite recent too.
+
+
+## What to do?
+
+I would be happy if even a small contribution is made, this wil make us a better, more well-rounded programmer society!
+
+
+## Guidelines
+
+The fashion_mnist py file is just a small demo I used when I was watching tutorials of TechwitTim, it's a basic setup of the movie classification.
+
+## Problems
+
+There are many problems and faulty code in this project, it would be helpful for suggestions, of any sort!
+
+### Contributors
 - Infernal Blueberry
 - 
