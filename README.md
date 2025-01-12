@@ -1,4 +1,4 @@
-### Keras Movie Classification
+# Keras Movie Classification
 
 This is an project about reading Movie Reviews, we use machine learning through the help of keras, a subset of tenslorflow. This gives an output from 1 to 0, with 1 being a positive output , and 0 being negative output. 
 
@@ -20,6 +20,6 @@ The fashion_mnist py file is just a small demo I used when I was watching tutori
 
 There are many problems and faulty code in this project, it would be helpful for suggestions, of any sort!
 
-### Contributors
+# Contributors
 - Infernal Blueberry
 - 
